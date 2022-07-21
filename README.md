@@ -1,4 +1,4 @@
-# Guidled Authlink
+# Guilded Authlink
 A new way to make OAuth requests to the authlink API for easier guilded login actions.
 
 ## Basic Code
